@@ -1,0 +1,4 @@
+"AadClientId": "a8b4e6f2-4fd1-44f3-9e15-7042986c6631",
+"AadSecret": "7G-8Q~VdqlIE1~Lvgo06TasbZuYzf2JTn31FEdCg",
+"AadTenantDomain": "fsiazureadminfsico.onmicrosoft.com",
+"AadTenantId": "7deb9596-de6d-4ddf-a8ff-eae0a2971ce1",
